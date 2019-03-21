@@ -7,3 +7,6 @@ requirments:
         -Spotify-token module (pip install spotify-token) <br></br>
 
  Aside from that, it can be cloned and run as is. 
+
+# code inside a class
+https://github.com/TheCannings/Spotify-Lyrics/blob/master/spotifylyrics.py
